@@ -1,0 +1,12 @@
+C:\Users\Uygar_DK\source\repos\udkXMLTemplate\udkXMLTemplate\bin\Release\net6.0\udkXMLTemplate.deps.json
+C:\Users\Uygar_DK\source\repos\udkXMLTemplate\udkXMLTemplate\bin\Release\net6.0\udkXMLTemplate.dll
+C:\Users\Uygar_DK\source\repos\udkXMLTemplate\udkXMLTemplate\bin\Release\net6.0\udkXMLTemplate.pdb
+C:\Users\Uygar_DK\source\repos\udkXMLTemplate\udkXMLTemplate\obj\Release\net6.0\udkXMLTemplate.csproj.AssemblyReference.cache
+C:\Users\Uygar_DK\source\repos\udkXMLTemplate\udkXMLTemplate\obj\Release\net6.0\udkXMLTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uygar_DK\source\repos\udkXMLTemplate\udkXMLTemplate\obj\Release\net6.0\udkXMLTemplate.AssemblyInfoInputs.cache
+C:\Users\Uygar_DK\source\repos\udkXMLTemplate\udkXMLTemplate\obj\Release\net6.0\udkXMLTemplate.AssemblyInfo.cs
+C:\Users\Uygar_DK\source\repos\udkXMLTemplate\udkXMLTemplate\obj\Release\net6.0\udkXMLTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Uygar_DK\source\repos\udkXMLTemplate\udkXMLTemplate\obj\Release\net6.0\udkXMLTemplate.dll
+C:\Users\Uygar_DK\source\repos\udkXMLTemplate\udkXMLTemplate\obj\Release\net6.0\refint\udkXMLTemplate.dll
+C:\Users\Uygar_DK\source\repos\udkXMLTemplate\udkXMLTemplate\obj\Release\net6.0\udkXMLTemplate.pdb
+C:\Users\Uygar_DK\source\repos\udkXMLTemplate\udkXMLTemplate\obj\Release\net6.0\ref\udkXMLTemplate.dll
